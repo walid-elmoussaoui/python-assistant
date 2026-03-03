@@ -1,3 +1,7 @@
+
+<img width="688" height="890" alt="Screenshot 2026-03-03 022729" src="https://github.com/user-attachments/assets/e76f1ba9-040f-4f36-8f00-2502bd6c7f51" />
+
+
 Project Description
 
 This project is a Desktop AI Assistant Application developed in Python that seamlessly integrates both voice and text-based interaction. The application provides an intuitive graphical interface and leverages advanced AI capabilities to deliver intelligent, real-time responses. It is designed to function as a locally executed virtual assistant, similar to modern voice assistants, while remaining fully customizable and developer-controlled.
@@ -76,4 +80,5 @@ Overview
 
 This application functions as a voice-enabled AI assistant comparable to Siri or Cortana, but is entirely custom-built and designed to run locally on a desktop environment. Its modular architecture allows for easy extension, customization, and future scalability.
 
-The project demonstrates practical implementation of desktop UI development, speech processing, API integration, and AI-driven conversational systems within a cohesive Python-based architecture.
+The project demonstrates practical imple![Uploading proj1.png…]()
+mentation of desktop UI development, speech processing, API integration, and AI-driven conversational systems within a cohesive Python-based architecture.
