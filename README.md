@@ -79,6 +79,3 @@ Packaging: PyInstaller (for standalone .exe generation)
 Overview
 
 This application functions as a voice-enabled AI assistant comparable to Siri or Cortana, but is entirely custom-built and designed to run locally on a desktop environment. Its modular architecture allows for easy extension, customization, and future scalability.
-
-The project demonstrates practical imple![Uploading proj1.png…]()
-mentation of desktop UI development, speech processing, API integration, and AI-driven conversational systems within a cohesive Python-based architecture.
